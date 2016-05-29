@@ -1,3 +1,4 @@
-#move_detector
+#Detector de movimiento en Python con OpenCV
 
-Detector de movimientos con una webcam y la librería OpenCV mediante Python
+Es un ejemplo desarrollado en Python utilizando la librería OpenCV. Utilizando una webcam podemos detectar zonas en movimiento y recuadrar la zona 
+que hemos detectado
